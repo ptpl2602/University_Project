@@ -1,0 +1,39 @@
+dictionary
+tu dien
+n
+beautiful
+xinh dep
+adj
+apple
+qua tao
+n
+bathroom
+nha tam
+n
+change
+thay doi
+v
+bedroom
+phong ngu
+n
+perfect
+hoan hao
+adj
+hello
+xin chao
+n
+english
+tieng anh
+n
+livingroom
+phong khach
+n
+student
+hoc sinh
+n
+search
+tim kiem
+v
+study
+hoc tap
+v

@@ -1,0 +1,63 @@
+2087700080
+Tran Quang Huy
+20DATA1
+26 1 2002
+Nam
+7.0
+8.0
+9.0
+8.0
+2003933850
+Nguyen Van An
+20DTHA1
+20 1 2002
+Nam
+7.3
+9.8
+9.0
+8.7
+1908348737
+Tran Van Khang
+19DTXA1
+13 9 2001
+Nam
+9.0
+8.0
+8.6
+8.5
+1901988347
+Nguyen Tran Thanh Lan
+19DTQC2
+24 5 2001
+Nu
+6.9
+7.9
+8.5
+7.8
+2093803849
+Ho Nguyen Nhat Thanh
+20DTCS1
+9 8 2002
+Nam
+8.0
+8.9
+6.7
+7.9
+2073847472
+Lee Sun Peak
+20DTXC3
+2 3 2001
+Nam
+9.9
+8.7
+9.2
+9.3
+2087700080
+Tran Quang Huy
+20DATA1
+26 1 2002
+Nam
+7.0
+8.0
+9.0
+8.0
